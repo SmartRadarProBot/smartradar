@@ -1,0 +1,15 @@
+﻿# Smart Radar Pro & Digital Studio Craft
+> Premium Crypto Arbitrage Terminal, Polymarket Intelligence & Bespoke Software Engineering.
+
+## Core Capabilities
+- **Smart Radar Pro Bot**: Cross-CEX spot arbitrage scanner across Bybit, Gate.io, Bitget, BingX, MEXC with automated network health verification and net fee calculations.
+- **Polymarket Suite**: Live whale wallet tracker, probability spike detector (>55%) with Gemini AI news summaries, and $3000 USDC demo trading balance.
+- **3-Pillar Technical Analysis**: Technical scoring (/analyze) using EMA trend, RSI/MACD/BB momentum, Point of Control (POC) volume profiles, and CEX order book walls.
+- **B2B Lead Finder**: Intelligent business prospecting across 2GIS, Yandex Maps, Google Maps, and Firecrawl. Identifies businesses operating without websites, provides a built-in mini-CRM, and 1-tap pitch generation.
+- **Zero-Custody AI Terminal (MCP)**: Connects local AI assistants (Claude Code, Cursor) using Model Context Protocol without transmitting private keys.
+- **Custom Engineering Services**: Development of custom websites and high-conversion landing pages, Telegram bots (payments, subscriptions, CRM, Mini Apps), and web parsers/automation scripts. Pricing is assessed individually based on task scope.
+
+## Official Links
+- Bot: https://t.me/SmartRadarProBot
+- Channel: https://t.me/smartradarpro
+- Developer & Inquiries: https://t.me/vovan9805
